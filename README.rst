@@ -121,12 +121,3 @@ Tests
     python3 -m unittest
 
 * This will run all the tests defined in the files of the ``tests/`` directory
-
-
-Donation
-~~~~~~~~
-
-If you have found my softwares to be of any use to you, do consider helping me pay my internet bills. This would encourage me to create many such softwares :)
-
-- `PayPal <https://paypal.me/omkarpathak27>`_
-- `₹ (INR) <https://www.instamojo.com/@omkarpathak/>`_
